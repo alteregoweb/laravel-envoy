@@ -1,5 +1,5 @@
 {
-    "name": "sikic/laravel-envoy",
+    "name": "alteregoweb/laravel-envoy",
     "description": "Run envoy tasks from your controller",
     "type": "library",
     "require": {
